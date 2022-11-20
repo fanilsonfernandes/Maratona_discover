@@ -1,5 +1,3 @@
 # Maratona_discover
 Project dev finance
-[paperclipslinkClique aqui para acessar] (fanilsonfernandes
-/
-Maratona_discover)
+[paperclipslinkClique aqui para acessar(https://github.com/fanilsonfernandes/Maratona_discover.git)
